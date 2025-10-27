@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true}));
 
 app.get('/', (req,res) =>{ 
-    res.send('Example 1 -run'); 
+    res.send('Ejemplo running Oct 27-2025'); 
 }); 
 
 
